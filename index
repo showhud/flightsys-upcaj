@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang ="zh-CN">
+<head>
+    <meta charset="UTF-8>
+    <title>插件上传教程</title>
+</head>
+<body>
+    <div style = "background-color:blue">
+        <h1>插件上传</h1>
+        <p>想让自己的插件有更多人使用？就来上传到我们吧！我们支持众多模拟器的插件，如何上传插件呢？教程如下：</p>
+        <li>方法1:通过QQ</li>
+        <p>您可以直接通过私信3908373151进行插件上传，我们白天基本在线</p>
+        <li>方法2:通过邮箱</li>
+        <p>您可以通过我们的邮箱进行上传（我们的outlook：showhud@outlook.com,我们的QQ邮箱:3908373151@qq.com)，邮件格式：插件创作者+插件内容，副本写插件压缩包或网盘地址。</p>
+    </div>
+    <p>更多插件？等您创作</p>
+</body>
+</html>
